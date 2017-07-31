@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from random import random
+import random
 from model.classifier import Classifier
 
 __author__ = "ABC XYZ"  # Adjust this when you copy the file
@@ -16,21 +16,16 @@ class StupidRecognizer(Classifier):
     recognizing method later on.
     """
 
-    def __init__(self, train, valid, test, byChance=0.5):
-
+    def __init__(self, byChance=0.5):
         self.byChance = byChance
 
-        self.trainingSet = train
-        self.validationSet = valid
-        self.testSet = test
-
-    def train(self):
+    def train(self, trainingSet, validationSet):
         # Do nothing
         pass
 
     def classify(self, testInstance):
-        # byChance is the probability of being correctly recognized
-        return random() < self.byChance
+        x = random.randint(0,9)
+        return "0" * (10 - x - 1) + "1" + "0" * x
 
-    def evaluate(self):
-        return list(map(self.classify, self.testSet.input))
+    def evaluate(self, test):
+        return list(map(self.classify, test.input))

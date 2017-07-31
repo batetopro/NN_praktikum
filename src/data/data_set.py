@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-
+import numpy as np
 
 class DataSet(object):
     """
@@ -23,21 +22,20 @@ class DataSet(object):
     targetDigit : string
     """
 
-    def __init__(self, data, oneHot=True, targetDigit='7'):
-
+    def __init__(self, data, classes=10, oneHot=True):
         # The label of the digits is always the first fields
         # Doing normalization
-        self.input = 1.0*data[:, 1:]/255
+
+        self.input = (1.0 * data[:, 1:])/255 - 0.5
         self.label = data[:, 0]
         self.oneHot = oneHot
-        self.targetDigit = targetDigit
 
-        # Transform all labels which is not the targetDigit to False,
-        # The label of targetDigit will be True,
         if oneHot:
-            self.label = list(map(lambda a: 1 
-                            if str(a) == targetDigit else 0, 
-                            self.label))
+            def encode(x):
+                result = np.zeros(classes)
+                result[x] = 1
+                return result
+            self.label = list(map(encode, self.label))
 
     def __iter__(self):
         return self.input.__iter__()

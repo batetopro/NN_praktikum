@@ -1,3 +1,7 @@
+# TODO: Description and analyse
+
+
+
 # NNPraktikum
 The coding framework for KIT Neural Network Praktikum
 
