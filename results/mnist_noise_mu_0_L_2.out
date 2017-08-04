@@ -1,0 +1,157 @@
+2017-07-31 19:42:34,289 INFO Loading data from ../data/mnist_seven.csv ...
+2017-07-31 19:42:38,696 INFO Data loaded.
+2017-07-31 19:42:38,697 INFO =========================
+2017-07-31 19:42:38,697 WARNING Training ...
+2017-07-31 19:42:38,697 INFO Training epoch 1/50..
+2017-07-31 19:43:16,052 INFO Hits: 869
+2017-07-31 19:43:16,092 INFO Accuracy on validation: 39.60%
+2017-07-31 19:43:16,092 INFO Training epoch 2/50..
+2017-07-31 19:43:51,911 INFO Hits: 1188
+2017-07-31 19:43:51,953 INFO Accuracy on validation: 43.10%
+2017-07-31 19:43:51,953 INFO Training epoch 3/50..
+2017-07-31 19:44:22,930 INFO Hits: 1209
+2017-07-31 19:44:22,967 INFO Accuracy on validation: 40.80%
+2017-07-31 19:44:22,969 INFO Training epoch 4/50..
+2017-07-31 19:44:53,677 INFO Hits: 1291
+2017-07-31 19:44:53,716 INFO Accuracy on validation: 43.10%
+2017-07-31 19:44:53,716 INFO Training epoch 5/50..
+2017-07-31 19:45:25,095 INFO Hits: 1234
+2017-07-31 19:45:25,134 INFO Accuracy on validation: 47.30%
+2017-07-31 19:45:25,134 INFO Training epoch 6/50..
+2017-07-31 19:45:55,959 INFO Hits: 1254
+2017-07-31 19:45:55,997 INFO Accuracy on validation: 42.20%
+2017-07-31 19:45:55,997 INFO Training epoch 7/50..
+2017-07-31 19:46:27,112 INFO Hits: 1252
+2017-07-31 19:46:27,151 INFO Accuracy on validation: 42.40%
+2017-07-31 19:46:27,151 INFO Training epoch 8/50..
+2017-07-31 19:46:57,907 INFO Hits: 1257
+2017-07-31 19:46:57,946 INFO Accuracy on validation: 42.10%
+2017-07-31 19:46:57,947 INFO Training epoch 9/50..
+2017-07-31 19:47:28,875 INFO Hits: 1246
+2017-07-31 19:47:28,915 INFO Accuracy on validation: 43.40%
+2017-07-31 19:47:28,915 INFO Training epoch 10/50..
+2017-07-31 19:47:59,505 INFO Hits: 1214
+2017-07-31 19:47:59,543 INFO Accuracy on validation: 43.00%
+2017-07-31 19:47:59,543 INFO Training epoch 11/50..
+2017-07-31 19:48:29,984 INFO Hits: 1248
+2017-07-31 19:48:30,025 INFO Accuracy on validation: 41.80%
+2017-07-31 19:48:30,026 INFO Training epoch 12/50..
+2017-07-31 19:48:59,838 INFO Hits: 1232
+2017-07-31 19:48:59,875 INFO Accuracy on validation: 43.30%
+2017-07-31 19:48:59,875 INFO Training epoch 13/50..
+2017-07-31 19:49:30,049 INFO Hits: 1257
+2017-07-31 19:49:30,088 INFO Accuracy on validation: 42.40%
+2017-07-31 19:49:30,088 INFO Training epoch 14/50..
+2017-07-31 19:50:00,391 INFO Hits: 1247
+2017-07-31 19:50:00,431 INFO Accuracy on validation: 45.90%
+2017-07-31 19:50:00,431 INFO Training epoch 15/50..
+2017-07-31 19:50:30,604 INFO Hits: 1280
+2017-07-31 19:50:30,642 INFO Accuracy on validation: 40.50%
+2017-07-31 19:50:30,644 INFO Training epoch 16/50..
+2017-07-31 19:51:00,611 INFO Hits: 1273
+2017-07-31 19:51:00,650 INFO Accuracy on validation: 45.40%
+2017-07-31 19:51:00,651 INFO Training epoch 17/50..
+2017-07-31 19:51:30,536 INFO Hits: 1282
+2017-07-31 19:51:30,573 INFO Accuracy on validation: 40.60%
+2017-07-31 19:51:30,575 INFO Training epoch 18/50..
+2017-07-31 19:52:00,953 INFO Hits: 1300
+2017-07-31 19:52:00,993 INFO Accuracy on validation: 42.50%
+2017-07-31 19:52:00,993 INFO Training epoch 19/50..
+2017-07-31 19:52:31,220 INFO Hits: 1288
+2017-07-31 19:52:31,259 INFO Accuracy on validation: 42.60%
+2017-07-31 19:52:31,259 INFO Training epoch 20/50..
+2017-07-31 19:53:01,098 INFO Hits: 1288
+2017-07-31 19:53:01,138 INFO Accuracy on validation: 42.40%
+2017-07-31 19:53:01,138 INFO Training epoch 21/50..
+2017-07-31 19:53:31,398 INFO Hits: 1291
+2017-07-31 19:53:31,436 INFO Accuracy on validation: 45.90%
+2017-07-31 19:53:31,436 INFO Training epoch 22/50..
+2017-07-31 19:54:01,617 INFO Hits: 1264
+2017-07-31 19:54:01,654 INFO Accuracy on validation: 43.10%
+2017-07-31 19:54:01,655 INFO Training epoch 23/50..
+2017-07-31 19:54:31,917 INFO Hits: 1266
+2017-07-31 19:54:31,959 INFO Accuracy on validation: 42.80%
+2017-07-31 19:54:31,959 INFO Training epoch 24/50..
+2017-07-31 19:55:02,614 INFO Hits: 1254
+2017-07-31 19:55:02,655 INFO Accuracy on validation: 45.40%
+2017-07-31 19:55:02,657 INFO Training epoch 25/50..
+2017-07-31 19:55:32,947 INFO Hits: 1269
+2017-07-31 19:55:32,986 INFO Accuracy on validation: 42.90%
+2017-07-31 19:55:32,986 INFO Training epoch 26/50..
+2017-07-31 19:56:03,911 INFO Hits: 1271
+2017-07-31 19:56:03,951 INFO Accuracy on validation: 39.50%
+2017-07-31 19:56:03,951 INFO Training epoch 27/50..
+2017-07-31 19:56:34,851 INFO Hits: 1304
+2017-07-31 19:56:34,894 INFO Accuracy on validation: 41.00%
+2017-07-31 19:56:34,894 INFO Training epoch 28/50..
+2017-07-31 19:57:11,825 INFO Hits: 1263
+2017-07-31 19:57:11,864 INFO Accuracy on validation: 43.00%
+2017-07-31 19:57:11,865 INFO Training epoch 29/50..
+2017-07-31 19:57:42,740 INFO Hits: 1294
+2017-07-31 19:57:42,779 INFO Accuracy on validation: 40.80%
+2017-07-31 19:57:42,779 INFO Training epoch 30/50..
+2017-07-31 19:58:16,240 INFO Hits: 1277
+2017-07-31 19:58:16,279 INFO Accuracy on validation: 40.10%
+2017-07-31 19:58:16,279 INFO Training epoch 31/50..
+2017-07-31 19:58:46,785 INFO Hits: 1284
+2017-07-31 19:58:46,823 INFO Accuracy on validation: 40.20%
+2017-07-31 19:58:46,823 INFO Training epoch 32/50..
+2017-07-31 19:59:19,141 INFO Hits: 1272
+2017-07-31 19:59:19,190 INFO Accuracy on validation: 41.80%
+2017-07-31 19:59:19,190 INFO Training epoch 33/50..
+2017-07-31 19:59:56,895 INFO Hits: 1283
+2017-07-31 19:59:56,934 INFO Accuracy on validation: 40.90%
+2017-07-31 19:59:56,936 INFO Training epoch 34/50..
+2017-07-31 20:00:31,874 INFO Hits: 1288
+2017-07-31 20:00:31,914 INFO Accuracy on validation: 40.60%
+2017-07-31 20:00:31,914 INFO Training epoch 35/50..
+2017-07-31 20:01:03,273 INFO Hits: 1279
+2017-07-31 20:01:03,312 INFO Accuracy on validation: 41.90%
+2017-07-31 20:01:03,312 INFO Training epoch 36/50..
+2017-07-31 20:01:38,145 INFO Hits: 1276
+2017-07-31 20:01:38,194 INFO Accuracy on validation: 41.70%
+2017-07-31 20:01:38,196 INFO Training epoch 37/50..
+2017-07-31 20:02:12,614 INFO Hits: 1315
+2017-07-31 20:02:12,653 INFO Accuracy on validation: 42.00%
+2017-07-31 20:02:12,653 INFO Training epoch 38/50..
+2017-07-31 20:02:43,914 INFO Hits: 1306
+2017-07-31 20:02:43,953 INFO Accuracy on validation: 44.70%
+2017-07-31 20:02:43,953 INFO Training epoch 39/50..
+2017-07-31 20:03:14,986 INFO Hits: 1272
+2017-07-31 20:03:15,025 INFO Accuracy on validation: 42.60%
+2017-07-31 20:03:15,025 INFO Training epoch 40/50..
+2017-07-31 20:03:46,141 INFO Hits: 1288
+2017-07-31 20:03:46,180 INFO Accuracy on validation: 42.40%
+2017-07-31 20:03:46,181 INFO Training epoch 41/50..
+2017-07-31 20:04:24,601 INFO Hits: 1292
+2017-07-31 20:04:24,650 INFO Accuracy on validation: 42.50%
+2017-07-31 20:04:24,650 INFO Training epoch 42/50..
+2017-07-31 20:05:02,703 INFO Hits: 1313
+2017-07-31 20:05:02,743 INFO Accuracy on validation: 37.90%
+2017-07-31 20:05:02,743 INFO Training epoch 43/50..
+2017-07-31 20:05:34,085 INFO Hits: 1332
+2017-07-31 20:05:34,125 INFO Accuracy on validation: 41.80%
+2017-07-31 20:05:34,127 INFO Training epoch 44/50..
+2017-07-31 20:06:11,345 INFO Hits: 1295
+2017-07-31 20:06:11,394 INFO Accuracy on validation: 39.00%
+2017-07-31 20:06:11,394 INFO Training epoch 45/50..
+2017-07-31 20:06:45,976 INFO Hits: 1283
+2017-07-31 20:06:46,015 INFO Accuracy on validation: 42.60%
+2017-07-31 20:06:46,015 INFO Training epoch 46/50..
+2017-07-31 20:07:17,286 INFO Hits: 1295
+2017-07-31 20:07:17,325 INFO Accuracy on validation: 42.20%
+2017-07-31 20:07:17,325 INFO Training epoch 47/50..
+2017-07-31 20:07:52,256 INFO Hits: 1284
+2017-07-31 20:07:52,305 INFO Accuracy on validation: 42.60%
+2017-07-31 20:07:52,305 INFO Training epoch 48/50..
+2017-07-31 20:08:26,767 INFO Hits: 1305
+2017-07-31 20:08:26,809 INFO Accuracy on validation: 40.00%
+2017-07-31 20:08:26,809 INFO Training epoch 49/50..
+2017-07-31 20:08:58,009 INFO Hits: 1316
+2017-07-31 20:08:58,049 INFO Accuracy on validation: 40.70%
+2017-07-31 20:08:58,049 INFO Training epoch 50/50..
+2017-07-31 20:09:32,963 INFO Hits: 1265
+2017-07-31 20:09:33,013 INFO Accuracy on validation: 41.20%
+2017-07-31 20:09:33,062 WARNING Trained accuracy: 41.20%
+2017-07-31 20:09:33,062 INFO Multilayer perceptron trained
+2017-07-31 20:09:33,111 WARNING Accuracy of the recognizer: 42.40%

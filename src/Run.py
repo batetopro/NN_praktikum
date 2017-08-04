@@ -44,13 +44,13 @@ def main():
             "alpha": 0.1,
             "beta": 0.001,
             "weights": "xavier",
-            "momentum": 0.25,
+            "momentum": 0.5,
             "noise": True,
         },
         {
             "out": N,
             "noise": True,
-            "momentum": 0.25,
+            "momentum": 0.5,
             "weights": "xavier",
         }
     ]
